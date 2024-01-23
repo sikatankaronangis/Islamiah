@@ -4,8 +4,8 @@ export default function Footer() {
       <footer className="p-3 text-center mb-20">
         <p>
           Dibuat dengan ❤ {' '}
-          <a href="https://onetop.my.id" target="_blank">
-            ©2024
+          <a href="https://www.instagram.com/x_fufufu_x" target="_blank">
+            x_fufufu_x
           </a>{' '}
           {/* untuk Sweet heartnya */}
         </p>
